@@ -28,7 +28,7 @@ The site is designed to be clean, fast, and responsive, and is hosted using GitH
 
 ## 📬 Contact
 - Portfolio: https://rithikaranvidu.dev
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Brokennnnnnn
 
 ---
 
